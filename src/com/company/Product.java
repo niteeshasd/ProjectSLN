@@ -30,10 +30,6 @@ public class Product {
         return packing;
     }
 
-    public double getRate() {
-        return rate;
-    }
-
     public String getHSN() {
         return HSN;
     }
